@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <扫码器配置>COM2;115200;8;1;None</扫码器配置>
+  <测试仪配置>COM1;9600;8;1;None</测试仪配置>
+  <PLC配置>192.168.1.5</PLC配置>
+</root>
